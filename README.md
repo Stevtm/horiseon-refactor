@@ -21,5 +21,5 @@ This is a screenshot of the deployed site!
 
 ## References 
 
-The following references on accessibility standards were used: 
+The following sources on accessibility standards and guidelines were used: 
 * https://developers.google.com/web/fundamentals/accessibility?utm_source=lighthouse&utm_medium=devtools
