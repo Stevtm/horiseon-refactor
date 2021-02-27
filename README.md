@@ -23,5 +23,9 @@ This is a screenshot of the deployed site!
 
 ## References 
 
-The following sources on accessibility standards and guidelines were used: 
-* https://developers.google.com/web/fundamentals/accessibility?utm_source=lighthouse&utm_medium=devtools
+### Accessibility Standards
+* https://developer.mozilla.org/en-US/docs/Web/Accessibility
+* https://developers.google.com/web/fundamentals/accessibility?utm_source=lighthouse&utm_medium=devtools 
+
+### CSS Indentation & Organization
+* https://learn-the-web.algonquindesign.ca/topics/css-indentation/
