@@ -12,6 +12,8 @@ The following changes were made to improve the accessibility of the page:
 * Descriptive comments were added to the HTML and CSS files to clarify content and structure
 * Heading elements (h1, h2, etc.) were organized in sequential order based on importance
 * Broken navigation links were fixed
+* Descriptive title element added
+* Consolidated CSS selectors and properties and organized to follow semantic structure
 
 ## Screenshot
 
